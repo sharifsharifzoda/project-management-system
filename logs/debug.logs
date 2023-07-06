@@ -1,0 +1,2 @@
+time="2023-06-26T17:51:29+05:00" level=error msg=forbidden func="github.com/sharifsharifzoda/project-management-system/pkg/service.(*AuthService).ValidateUser" file="C:/Users/Sharif/Desktop/project-management-system/pkg/service/auth.go:37"
+time="2023-06-26T18:26:47+05:00" level=error msg=forbidden func="github.com/sharifsharifzoda/project-management-system/pkg/service.(*AuthService).ValidateUser" file="C:/Users/Sharif/Desktop/project-management-system/pkg/service/auth.go:37"
